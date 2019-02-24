@@ -1,2 +1,5 @@
 # Mulch-Baquet
-Mulch &amp; Baquet Files
+Mulch & Baquet GitHub:
+
+Infos:
+Mulch & Baquet is a French Speaking Discord Mod/ChatBot.
